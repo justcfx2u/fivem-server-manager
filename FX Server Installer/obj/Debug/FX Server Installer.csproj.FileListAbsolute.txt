@@ -1,0 +1,9 @@
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\bin\Debug\FX Server Installer.exe.config
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\bin\Debug\FX Server Installer.exe
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\bin\Debug\FX Server Installer.pdb
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\obj\Debug\FX Server Installer.csprojResolveAssemblyReference.cache
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\obj\Debug\FX_Server_Installer.Properties.Resources.resources
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\obj\Debug\FX Server Installer.csproj.GenerateResource.Cache
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\obj\Debug\FX Server Installer.exe
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\obj\Debug\FX Server Installer.pdb
+G:\Servers\Script Development\FX Installer Development\FX Server Installer\FX Server Installer\obj\Debug\FX_Server_Installer.ServerInstallerForm.resources
